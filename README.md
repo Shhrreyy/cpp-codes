@@ -17,9 +17,14 @@ This repository contains simple C++ programs demonstrating basic programming con
 5. **Identify Quadrant**  
    Finds which quadrant a point lies in on the Cartesian plane.
 
-6. **Vowel or Consonant**  
+6. **Determining even/odd number**
+   Finds whether the number is even or odd
+
+7. **Vowel or Consonant**  
    Checks whether a given character is a vowel or consonant.
 
-7. **Largest of Three Numbers**  
+8. **Largest of Three Numbers**  
    Finds the largest number among three inputs.
+   
+
 
